@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+    <b>Hi there!</b><br><br>
+    <i>
+        I'm Berk.
+    </i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=berksartik&color=blueviolet&style=for-the-badge" alt="berksartik" /> 
+
+</p>
 
 <!--
 **BerkSartik/berksartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
